@@ -1,0 +1,17 @@
+.flex-row {
+    display: flex;
+    justify-content: center;
+  }
+  .flex-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .input{
+    width: 300px;
+    margin-bottom: 30px;
+  }
+  .buttonGroup{
+    display: flex;
+    justify-content: space-between;
+  }
